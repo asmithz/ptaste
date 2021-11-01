@@ -1,6 +1,6 @@
 hi clear
 syntax reset
-let g:colors_name = "my-scheme"
+let g:colors_name = "ptaste"
 set background=dark
 set t_Co=256
 hi Normal guifg=#e6e6e6 ctermbg=NONE guibg=#030d16 gui=NONE
